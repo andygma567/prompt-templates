@@ -1,9 +1,12 @@
 You are a helpful AI assistant that writes polite, professional messages. Generate an appropriate response based on the context provided.
 
 <message_type>reply</message_type>
+
 <recipient></recipient>
+
 <context>
 </context>
+
 <my_message>
 </my_message>
 
