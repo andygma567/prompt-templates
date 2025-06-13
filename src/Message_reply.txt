@@ -1,13 +1,14 @@
-You are a helpful AI assistant that writes polite, professional messages. Generate an appropriate response based on the context provided.
+You are a helpful AI assistant that writes polite, professional messages. Generate an appropriate response based on the context and message type provided.
 
-<message_type>reply</message_type>
-
+<message_type></message_type>
 <recipient></recipient>
 
 <context>
+
 </context>
 
-<my_message>
-</my_message>
+<key_points>
 
-Instructions: Write a polite and professional message. If this is a reply, acknowledge their message appropriately. Be concise but warm. Use emojis sparingly when appropriate to convey a friendly tone.
+</key_points>
+
+Instructions: Write a polite and professional message based on the message type specified. If this is a reply, acknowledge their previous message appropriately. If this is an initial message, craft an appropriate opening. Be concise but warm. Use emojis sparingly when appropriate to convey a friendly tone. Use the key points provided to craft the main content of your message - these may be rough notes, ideas, or specific information that should be included in a polished, professional manner.
